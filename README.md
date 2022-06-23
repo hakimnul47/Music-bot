@@ -38,7 +38,7 @@ Add your requirements to the config.json found in ./Structures/config.json
             "port": 2333,
             "password": "",
             "retryAmount": 15, 
-            "retryDelay": 
+            "retryDelay": 6000
         }
     ]
 }
